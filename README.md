@@ -1,5 +1,7 @@
 A simple Safari extension for displaying the card numbers on Trello.
 
+Download [here](https://github.com/robgough/trellocardnumbers-safari/raw/master/TrelloCardNumbers.safariextz).
+
 ### Before
 
 ![Trello without card numbers displayed](https://dl.dropboxusercontent.com/u/300886/blog_images/trellocardnumbers_before.png)
